@@ -1,0 +1,8 @@
+setup.py
+src/sklearn_text_classification.egg-info/PKG-INFO
+src/sklearn_text_classification.egg-info/SOURCES.txt
+src/sklearn_text_classification.egg-info/dependency_links.txt
+src/sklearn_text_classification.egg-info/requires.txt
+src/sklearn_text_classification.egg-info/top_level.txt
+src/trainer/__init__.py
+src/trainer/task.py
